@@ -1,5 +1,4 @@
 # RecordCPRv1.1
-<!DOCTYPE html>
 <html lang="th">
 <head>
     <meta charset="UTF-8">
